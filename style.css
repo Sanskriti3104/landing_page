@@ -197,3 +197,14 @@ button{
 #btn{
     border: 2px solid white;
 }
+
+#section5{
+    height: 75px;
+    width: 100%;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
